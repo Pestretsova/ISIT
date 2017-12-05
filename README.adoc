@@ -1,5 +1,6 @@
 # ISIT
 Jobs to the degree project "Information System of the Analysis of MRT of Pictures on the basis of 3D Models"
+
 Требования, предъявляемые к системе:
 1. функция загрузки МРТ снимка формата decom;
 2. функция преобразования формата decom во внутренний формат;
